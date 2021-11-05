@@ -1,0 +1,3 @@
+[submodule "sloorush"]
+	path = sloorush
+	url = https://github.com/sloorush/dotfiles
