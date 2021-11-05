@@ -1,3 +1,6 @@
 [submodule "sloorush"]
 	path = sloorush
 	url = https://github.com/sloorush/dotfiles
+[submodule "feniljain"]
+	path = feniljain
+	url = https://github.com/feniljain/dotfiles
