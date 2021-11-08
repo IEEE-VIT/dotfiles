@@ -7,3 +7,6 @@
 [submodule "darthbenro008"]
 	path = darthbenro008
 	url = https://github.com/darthbenro008/dotfiles
+[submodule "ZiyanK"]
+	path = ZiyanK
+	url = https://github.com/ZiyanK/dotfiles
